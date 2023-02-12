@@ -1,4 +1,4 @@
-# <b> san-the-texture-ripper </b>
+# <b> sand-the-texture-ripper </b>
 
 A file to change the texture coordinates using a grid to convert and manage the texture using a warp type functionality.
 
